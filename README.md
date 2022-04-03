@@ -1,18 +1,47 @@
-# Hang In There
+# Hang in There!
 
-A boilerplate repo. 
+## Table of Contents
+
+1. Introduction
+2. Technologies Used
+3. Functions
+4. Set Up
+5. Contributors
+6. Project Spec & Ruberic
+7. Published Link
+
+## Introduction
+
+ - Monday got you down? Need a mid-week boost? Want to send something funny to a friend? Make a motivational poster for any situation! You can use the randomizer to create a poster with a pre-made Image, Title, and Quote, or you can build your own. The possibilities are endless!
+
+## Technologies
+
+  - Javascript
+  - HTML
+  - CSS
+
+## Features
+
+  - You are able to randomly generate a poster with the included selection of quotes, titles, and images.
+  - You can input your own quotes, titles, and images.
+  - You can save your randomly generated or custom posters.
+  - You can double click a saved poster to delete it.
 
 ## Set Up
 
-1. One teammate: fork this repository
-2. Clone down your new, forked repo
-3. cd into the repository
-4. Open it in your text editor
-5. Add all project partners and your assigned instructor as collaborators on the repository
+  1. Fork this repo
+  2. Clone the repo to your local machine.
+  3. In your terminal, navigate to your project repo.
+  4. Run the command `open index.html`.
 
-Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there.html)
+## Contributors
 
-To view your project:
+  - [Cami Anderson](https://github.com/camianderson)
+  - [Will Hobson](https://github.com/willhobson85)
 
-1. In your terminal, navigate to your project repo
-2. Run the command `open index.html`
+## Project Spec & Ruberic
+
+  - Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there.html)
+
+## Published link
+  - You can view the website [here](https://camianderson.github.io/hang-in-there-boilerplate/)
