@@ -72,7 +72,7 @@ var titles = [
   "trust",
   "understanding",
   "wisdom"
-];
+]; 
 var quotes = [
   "Don’t downgrade your dream just to fit your reality, upgrade your conviction to match your destiny.",
   "You are braver than you believe, stronger than you seem and smarter than you think.",
