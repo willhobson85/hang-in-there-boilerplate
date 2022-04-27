@@ -44,4 +44,4 @@
   - Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there.html)
 
 ## Published link
-  - You can view the website [here](https://camianderson.github.io/hang-in-there-boilerplate/)
+  - You can view the website [here](https://willhobson85.github.io/hang-in-there-boilerplate/)
